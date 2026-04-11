@@ -148,5 +148,14 @@
       "url": "",
       "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
     }
+  ],
+  "web-maps": [
+    {
+      "name": "Web Map 1",
+      "category": "web-maps",
+      "date": "",
+      "url": "",
+      "description": "Short description of web map number 1<br/><img src='/images/500x300.png'>"
+    }
   ]
 }

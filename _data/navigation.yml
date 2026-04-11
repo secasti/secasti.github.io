@@ -12,8 +12,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
     
-  - title: "Web Maps"
-    url: /web-maps/
+  - title: "Lab Exercises"
+    url: /lab-exercises/
 
   - title: "Academic Research"
     url: /academic-research/

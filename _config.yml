@@ -23,7 +23,7 @@ repository               : "secasti/secasti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "selfie.png"
+  avatar           : "profile.png"
   name             : "Selene Castillo"
   pronouns         : "she/her"  
   bio              : "Software Engineer & GIS Specialist focusing on Spatial AI and Data Integrity"

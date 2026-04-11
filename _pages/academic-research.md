@@ -35,3 +35,23 @@ During my internship, I supported a multi-year population study of the endangere
 [👉 View Full StoryMap and Methodology](https://storymaps.arcgis.com/stories/2da7f6d7bd2d4555b474c6057f4abcc8)
 
 ---
+
+## 🔥 Normalized Burn Ratio Analysis: 2014 Lassics Wildfires
+**Project Focus:** Remote Sensing & Fire Ecology
+
+This technical report evaluated the impact of the **Mad River and Humboldt Lightning Complex fires** on the habitat of the endangered **Lassics lupine** (*Lupinus constancei*). The project involved multi-temporal satellite data processing to classify burn severity.
+
+### Technical Methodology:
+* **Image Pre-processing:** Conducted **Radiometric Calibration** and **Dark Subtraction** on Level 1 Landsat 8 datasets to ensure scientific consistency.
+* **Spectral Analysis:** Calculated the **Difference Normalized Burn Ratio (dNBR)** to identify landscape changes and classify burn severity into six categories (from "New Growth" to "High Severity").
+* **Data Synthesis:** Classified approximately **215 hectares** of the study area to provide a baseline for erosion risk and lupine population monitoring.
+
+### 🛰️ Analysis Gallery
+*Visualizing the transformation of the Lassics Geological and Botanical Area.*
+
+| | | |
+| :---: | :---: | :---: |
+| ![](/images/lassics-1.png) <br> **Aerial Overlay** | ![](/images/lassics-2.png) <br> **Pre-Fire (2014)** | ![](/images/lassics-3.png) <br> **Post-Fire (2015)** |
+| ![](/images/lassics-4.png) <br> **Pre-Fire NBR** | ![](/images/lassics-5.png) <br> **Post-Fire NBR** | ![](/images/lassics-6.png) <br> **Final dNBR** |
+
+---

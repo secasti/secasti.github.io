@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Selene Castillo | Geospatial Software Engineer"
+title: "Geospatial Software Engineer"
 author_profile: true
 redirect_from: 
   - /about/

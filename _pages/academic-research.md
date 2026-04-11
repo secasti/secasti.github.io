@@ -46,12 +46,16 @@ This technical report evaluated the impact of the **Mad River and Humboldt Light
 * **Spectral Analysis:** Calculated the **Difference Normalized Burn Ratio (dNBR)** to identify landscape changes and classify burn severity into six categories (from "New Growth" to "High Severity").
 * **Data Synthesis:** Classified approximately **215 hectares** of the study area to provide a baseline for erosion risk and lupine population monitoring.
 
-### 🛰️ Analysis Gallery
-*Visualizing the transformation of the Lassics Geological and Botanical Area.*
+### 🛰️ Analysis Gallery (Click to Expand)
+*A step-by-step visualization of the dNBR (Normalized Burn Ratio) workflow.*
+
+<details>
+<summary><strong>👉 View 6 Multi-Temporal Maps</strong></summary>
 
 | | | |
 | :---: | :---: | :---: |
 | ![](/images/lassics-1.png) <br> **Aerial Overlay** | ![](/images/lassics-2.png) <br> **Pre-Fire (2014)** | ![](/images/lassics-3.png) <br> **Post-Fire (2015)** |
 | ![](/images/lassics-4.png) <br> **Pre-Fire NBR** | ![](/images/lassics-5.png) <br> **Post-Fire NBR** | ![](/images/lassics-6.png) <br> **Final dNBR** |
 
+</details>
 ---

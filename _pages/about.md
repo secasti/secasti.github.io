@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Selene Castillo | Geospatial Software Engineer"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Selene Castillo | Geospatial Software Engineer
 **Bridging the gap between High-Scale Engineering and Spatial Data Integrity.**
 
 I am a Software Development Engineer and GIS Specialist with a background in **Wildlife Management** and **Environmental Consulting**. My career is defined by a commitment to data accuracy—whether I’m leading compliance campaigns for global pricing engines at **[Amazon](https://app.joinhandshake.com/profiles/bvcyzy)** or auditing biological survey data for **[Stantec](https://app.joinhandshake.com/profiles/bvcyzy)** and **[Montrose Environmental](https://app.joinhandshake.com/profiles/bvcyzy)**.
@@ -15,7 +14,6 @@ I am a Software Development Engineer and GIS Specialist with a background in **W
 I specialize in building AI-driven solutions for spatial challenges, utilizing a toolset that includes **QGIS, Python, SQL, and MapLibre**.
 
 ---
-
 ## 🛠️ Technical Focus Areas
 
 ### 🌍 Interactive Web Mapping & FOSS4G
@@ -30,14 +28,14 @@ With experience in **NEPA compliance** and hazardous tree management, I have a "
 Leveraging my time as an **[Amazon SDE](https://app.joinhandshake.com/profiles/bvcyzy)**, I build robust pipelines for data persistence and system monitoring.
 * **Skills:** AWS (S3, CloudWatch), Java, Python-based spatial analysis, and backend system debugging.
 
+### 🤖 AI System Integration & Logic
 
+* **LLM Implementation:** Integrated a Price Optimization LLM via API into Amazon’s retail pricing engine, ensuring low-latency data transmission and high-integrity response handling.
+
+* **Heuristic Overlays:** Developed logic to validate AI-generated pricing against legal compliance standards and international discount rules.
 
 ---
-
 ## 🎓 Education & Certifications
 * **B.S. Wildlife Management** (Minor in Geospatial Analysis) | *Cal Poly Humboldt*
 * **Software Engineering Certificate** | *Ada Developers Academy*
 * **Volunteer** | *Washington GIS Association*
-
-[View my full CV](./cv/) | [Explore my Portfolio](./portfolio/) | [Contact Me](mailto:your-email@example.com)# Selene Castillo | Geospatial Software Engineer
-**Bridging the gap between High-Scale Engineering and Spatial Data Integrity.**

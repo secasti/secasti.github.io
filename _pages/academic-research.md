@@ -46,14 +46,14 @@ This technical report evaluated the impact of the **Mad River and Humboldt Light
 * **Spectral Analysis:** Calculated the **Difference Normalized Burn Ratio (dNBR)** to identify landscape changes and classify burn severity into six categories (from "New Growth" to "High Severity").
 * **Data Synthesis:** Classified approximately **215 hectares** of the study area to provide a baseline for erosion risk and lupine population monitoring.
 
-### 🛰️ Analysis Gallery (Click to Expand)
+### 🛰️ Analysis Gallery
 *A step-by-step visualization of the dNBR (Normalized Burn Ratio) workflow.*
 
 <style>
   .slider { width: 100%; text-align: center; overflow: hidden; position: relative; border: 1px solid #ddd; border-radius: 8px; }
   .slides { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; -webkit-overflow-scrolling: touch; }
   .slides::-webkit-scrollbar { height: 10px; }
-  .slides::-webkit-scrollbar-thumb { background: #666; border-radius: 10px; }
+  .slides::-webkit-scrollbar-thumb { background: #f48b3c; border-radius: 10px; }
   .slides > div { scroll-snap-align: start; flex-shrink: 0; width: 100%; height: 450px; margin-right: 2px; display: flex; justify-content: center; align-items: center; background: #eee; position: relative; }
   .slides img { max-width: 100%; max-height: 100%; object-fit: contain; }
   .slide-label { position: absolute; bottom: 10px; background: rgba(0,0,0,0.6); color: white; padding: 5px 15px; border-radius: 20px; font-size: 0.8em; }

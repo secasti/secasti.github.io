@@ -49,13 +49,25 @@ This technical report evaluated the impact of the **Mad River and Humboldt Light
 ### 🛰️ Analysis Gallery (Click to Expand)
 *A step-by-step visualization of the dNBR (Normalized Burn Ratio) workflow.*
 
-<details>
-<summary><strong>👉 View 6 Multi-Temporal Maps</strong></summary>
+<style>
+  .slider { width: 100%; text-align: center; overflow: hidden; position: relative; border: 1px solid #ddd; border-radius: 8px; }
+  .slides { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; -webkit-overflow-scrolling: touch; }
+  .slides::-webkit-scrollbar { height: 10px; }
+  .slides::-webkit-scrollbar-thumb { background: #666; border-radius: 10px; }
+  .slides > div { scroll-snap-align: start; flex-shrink: 0; width: 100%; height: 450px; margin-right: 2px; display: flex; justify-content: center; align-items: center; background: #eee; position: relative; }
+  .slides img { max-width: 100%; max-height: 100%; object-fit: contain; }
+  .slide-label { position: absolute; bottom: 10px; background: rgba(0,0,0,0.6); color: white; padding: 5px 15px; border-radius: 20px; font-size: 0.8em; }
+</style>
 
-| | | |
-| :---: | :---: | :---: |
-| ![](/images/lassics-1.png) <br> **Aerial Overlay** | ![](/images/lassics-2.png) <br> **Pre-Fire (2014)** | ![](/images/lassics-3.png) <br> **Post-Fire (2015)** |
-| ![](/images/lassics-4.png) <br> **Pre-Fire NBR** | ![](/images/lassics-5.png) <br> **Post-Fire NBR** | ![](/images/lassics-6.png) <br> **Final dNBR** |
-
-</details>
+<div class="slider">
+  <div class="slides">
+    <div id="slide-1"><img src="/images/lassics-1.png"><span class="slide-label">Aerial Overlay</span></div>
+    <div id="slide-2"><img src="/images/lassics-2.png"><span class="slide-label">Pre-Fire (2014)</span></div>
+    <div id="slide-3"><img src="/images/lassics-3.png"><span class="slide-label">Post-Fire (2015)</span></div>
+    <div id="slide-4"><img src="/images/lassics-4.png"><span class="slide-label">Pre-Fire NBR</span></div>
+    <div id="slide-5"><img src="/images/lassics-5.png"><span class="slide-label">Post-Fire NBR</span></div>
+    <div id="slide-6"><img src="/images/lassics-6.png"><span class="slide-label">Final dNBR</span></div>
+  </div>
+</div>
+<p style="text-align: center;"><i>← Scroll or swipe to view all 6 analysis maps →</i></p>
 ---

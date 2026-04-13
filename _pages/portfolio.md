@@ -1,19 +1,23 @@
 ---
 layout: archive
-title: "Technical Portfolio"
+title: "Portfolio"
 permalink: /
 author_profile: true
-# redirect_from: 
-#   - /about/
-#   - /about.html
----
-
-*A selection of geospatial research, field-based data modeling from my tenure at Cal Poly Humboldt, focusing on endangered species conservation and remote sensing workflows.*
 
 ---
-# Raster File Analysis
+# Spatial Modeling
+## Ecological Niche Modeling: Species Distribution & Climate Projections for the American Bullfrog (*Rana catesbeiana*) 
+Using Maxent (Maximum Entropy) modeling and the Warren and Seifert (2012) likelihood calculation, I identified an optimal niche model based on parsimonious bioclimatic variables and a \Delta AICc = 0 selection criterion. I analyzed the specific response curves for annual temperature and precipitation extremes to define the target species' environmental tolerances and establish a high-accuracy spatial baseline. By projecting these requirements 50 years into the future using an RCP 8.5 high-emissions scenario and the AC global climate model, I quantified potential shifts in habitat suitability. Results were shared with the local Forest Service office to support management efforts.
+
+[![hh](/images/future_projection.jpg)]
+
+---
+# Remote Sensing Analysis
+*A selection of geospatial research with raster files, focusing on endangered species conservation and remote sensing workflows.*
+
+---
 ## Spatial Ecology of Giant Kangaroo Rats (Carrizo Plain)
-I supported a multi-year population study of the endangered **Giant Kangaroo Rat (Dipodomys ingens)**. My primary contribution involved high-precision **digitization and annotation** of GKR burrow systems to track population density and spatial distribution using **[NAIP Imagery](https://storymaps.arcgis.com/stories/2da7f6d7bd2d4555b474c6057f4abcc8)**.
+I supported a multi-year population study of the endangered **Giant Kangaroo Rat (*Dipodomys ingens*)**. My primary contribution involved high-precision **digitization and annotation** of GKR burrow systems to track population density and spatial distribution using **[NAIP Imagery](https://storymaps.arcgis.com/stories/2da7f6d7bd2d4555b474c6057f4abcc8)**.
 
 ### Research Context: GIS & Remote Sensing Analysis
 *The following StoryMap by Kira Dowdakin illustrates the broader research context and how the digitized plot and burrow data (see "Plot and Burrow Data" section) inform spatial conservation models.*
@@ -30,18 +34,8 @@ I supported a multi-year population study of the endangered **Giant Kangaroo Rat
 
 ---
 
-## 🔥 Normalized Burn Ratio Analysis: 2014 Lassics Wildfires
-**Project Focus:** Remote Sensing & Fire Ecology
-
-This technical report evaluated the impact of the **Mad River and Humboldt Lightning Complex fires** on the habitat of the endangered **Lassics lupine** (*Lupinus constancei*). The project involved multi-temporal satellite data processing to classify burn severity.
-
-### Technical Methodology:
-* **Image Pre-processing:** Conducted **Radiometric Calibration** and **Dark Subtraction** on Level 1 Landsat 8 datasets to ensure scientific consistency.
-* **Spectral Analysis:** Calculated the **Difference Normalized Burn Ratio (dNBR)** to identify landscape changes and classify burn severity into six categories (from "New Growth" to "High Severity").
-* **Data Synthesis:** Classified approximately **215 hectares** of the study area to provide a baseline for erosion risk and lupine population monitoring.
-
-### 🛰️ Analysis Gallery
-*A step-by-step visualization of the dNBR (Normalized Burn Ratio) workflow.*
+## Fire Ecology in the Lassics
+I evaluated the impact of the **Mad River and Humboldt Lightning Complex fires** on the habitat of the endangered **Lassics lupine** (*Lupinus constancei*). The project involved multi-temporal satellite data processing to classify burn severity. Image preprocessing included **Radiometric Calibration** and **Dark Subtraction** on Landsat statellite imagery. **Difference Normalized Burn Ratio (dNBR)** was conducted on approximately approximately **215 hectares** of the study area to classify burn severity and provide a baseline for erosion risk and lupine population monitoring.
 
 <style>
   .slider { width: 100%; text-align: center; overflow: hidden; position: relative; border: 1px solid #ddd; border-radius: 8px; }

@@ -2,9 +2,7 @@
 permalink: /about/
 title: "Geospatial Software Engineer"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 *Bridging the gap between High-Scale Engineering and Spatial Data Integrity.*

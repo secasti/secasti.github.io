@@ -11,16 +11,9 @@ author_profile: true
 *A selection of geospatial research and field-based data modeling from my tenure at Cal Poly Humboldt, focusing on endangered species conservation and remote sensing workflows.*
 
 ---
-
-## 🐹 Spatial Ecology of Giant Kangaroo Rats (Carrizo Plain)
-**Role:** Undergraduate Research Intern | **Lab:** Dr. Tim Bean's Spatial Ecology Lab
-
-During my internship, I supported a multi-year population study of the endangered **Giant Kangaroo Rat (Dipodomys ingens)**. My primary contribution involved high-precision **digitization and annotation** of GKR burrow systems (mounds) using **[NAIP Imagery](https://storymaps.arcgis.com/stories/2da7f6d7bd2d4555b474c6057f4abcc8)**.
-
-### Technical Contributions:
-* **Remote Sensing & Digitization:** Identified and mapped GKR dens from 1-meter resolution aerial imagery to track population density and spatial distribution.
-* **Data Validation:** Performed QA/QC on digitized layers to ensure alignment with ground-truth field data.
-* **Research Impact:** This foundational spatial dataset was utilized in subsequent graduate research to model how "greenness" (NDVI) and hydrologic patterns (TWI) predict GKR abundance.
+# Raster File Analysis
+## Spatial Ecology of Giant Kangaroo Rats (Carrizo Plain)
+I supported a multi-year population study of the endangered **Giant Kangaroo Rat (Dipodomys ingens)**. My primary contribution involved high-precision **digitization and annotation** of GKR burrow systems to track population density and spatial distribution using **[NAIP Imagery](https://storymaps.arcgis.com/stories/2da7f6d7bd2d4555b474c6057f4abcc8)**.
 
 ### Research Context: GIS & Remote Sensing Analysis
 *The following StoryMap by Kira Dowdakin illustrates the broader research context and how the digitized plot and burrow data (see "Plot and Burrow Data" section) inform spatial conservation models.*
@@ -34,8 +27,6 @@ During my internship, I supported a multi-year population study of the endangere
     allow="geolocation">
   </iframe>
 </div>
-
-[👉 View Full StoryMap and Methodology](https://storymaps.arcgis.com/stories/2da7f6d7bd2d4555b474c6057f4abcc8)
 
 ---
 

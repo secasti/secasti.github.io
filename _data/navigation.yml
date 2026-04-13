@@ -9,11 +9,8 @@
 
 main: 
     
-  - title: "Lab Exercises"
-    url: /lab-exercises/
+  - title: "About"
+    url: /about/
 
-  - title: "Academic Research"
-    url: /academic-research/
-
-  - title: "Software Engineering"
-    url: /software-engineering/
+  # - title: "CV"
+  #   url: /cv/

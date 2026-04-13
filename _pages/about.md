@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "Geospatial Software Engineer"
 author_profile: true
 redirect_from: 

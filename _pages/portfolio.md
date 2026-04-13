@@ -1,8 +1,11 @@
 ---
 layout: archive
-title: "Academic Research & Spatial Ecology"
-permalink: /academic-research/
+title: "Technical Portfolio"
+permalink: /
 author_profile: true
+# redirect_from: 
+#   - /about/
+#   - /about.html
 ---
 
 *A selection of geospatial research and field-based data modeling from my tenure at Cal Poly Humboldt, focusing on endangered species conservation and remote sensing workflows.*

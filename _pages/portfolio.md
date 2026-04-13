@@ -5,16 +5,15 @@ permalink: /
 author_profile: true
 
 ---
-
 # Spatial Modeling
-## Ecological Niche Modeling: Species Distribution & Climate Projections for the American Bullfrog (*Rana catesbeiana*) 
+* ## Ecological Niche Modeling: Species Distribution & Climate Projections for the American Bullfrog (*Rana catesbeiana*) 
 Using Maxent (Maximum Entropy) modeling and the Warren and Seifert (2012) likelihood calculation, I identified an optimal niche model based on parsimonious bioclimatic variables and a \Delta AICc = 0 selection criterion. I analyzed the specific response curves for annual temperature and precipitation extremes to define the target species' environmental tolerances and establish a high-accuracy spatial baseline. By projecting these requirements 50 years into the future using an RCP 8.5 high-emissions scenario and the AC global climate model, I quantified potential shifts in habitat suitability. Results were shared with the local Forest Service office to support management efforts.
 
 ![RACA projected suitable habitat](/images/future_projection.jpg)
 
 ---
 # Remote Sensing
-## Spatial Ecology of Giant Kangaroo Rats (Carrizo Plain)
+* ## Spatial Ecology of Giant Kangaroo Rats (Carrizo Plain)
 I supported a multi-year population study of the endangered **Giant Kangaroo Rat (*Dipodomys ingens*)**. My primary contribution involved high-precision **digitization and annotation** of GKR burrow systems to track population density and spatial distribution using **[NAIP Imagery](https://storymaps.arcgis.com/stories/2da7f6d7bd2d4555b474c6057f4abcc8)**.
 *The following StoryMap by Kira Dowdakin illustrates the broader research context and how the digitized plot and burrow data (see "Plot and Burrow Data" section) inform spatial conservation models.*
 
@@ -29,8 +28,7 @@ I supported a multi-year population study of the endangered **Giant Kangaroo Rat
 </div>
 
 ---
-
-## Fire Ecology in the Lassics
+* ## Fire Ecology in the Lassics
 I evaluated the impact of the **Mad River and Humboldt Lightning Complex fires** on the habitat of the endangered **Lassics lupine** (*Lupinus constancei*). The project involved multi-temporal satellite data processing to classify burn severity. Image preprocessing included **Radiometric Calibration** and **Dark Subtraction** on Landsat statellite imagery. **Difference Normalized Burn Ratio (dNBR)** was conducted on approximately approximately **215 hectares** of the study area to classify burn severity and provide a baseline for erosion risk and lupine population monitoring.
 
 <style>
@@ -56,17 +54,30 @@ I evaluated the impact of the **Mad River and Humboldt Lightning Complex fires**
 <p style="text-align: center;"><i>← Scroll or swipe to view all 6 analysis maps →</i></p>
 
 ---
-## Mt. St. Helens: 45-Year Multi-Spectral Change Detection
+* ## Mt. St. Helens: 45-Year Multi-Spectral Change Detection
 
 In this multi-temporal remote sensing study, I performed a comparative analysis of Landsat Level-1 imagery to quantify landscape recovery following the 1980 eruption of Mt. St. Helens. Using ENVI, I conducted radiometric calibration and atmospheric correction on Landsat 3 MSS (1980) and Landsat 8 OLI/TIRS (2025) datasets to ensure spectral consistency across disparate sensor generations. I developed a standardized Region of Interest (ROI) to subset both scenes to an identical geographic extent, allowing for a high-precision visual and spectral assessment of vegetation re-colonization. By generating Near-Infrared (NIR) false-color composites and utilizing link-scaled map frames in ArcGIS Pro, I mapped the long-term successional changes in the blast zone and Spirit Lake watershed.
 
 ![Mt. St. Helens](/images/helens.png)
 
 ---
+## River LiDAR & Relative Elevation Modeling (REM)
+I worked with CloudCompare and QGIS to transform raw LiDAR point clouds into actionable topographic models, specifically focusing on Relative Elevation Modeling (REM). By de-trending river elevation data, I was able to reveal subtle geomorphological features, such as abandoned channels and historical floodplains, that are typically obscured in standard digital elevation models
+
+[![LiDAR REM Screenshot](/images/lidar-rem.png)](https://www.meetup.com/maptimesea/events/295831668/)
+
+---
 # Cartography
 
-## Pacific Fisher (*Pekania pennanti*) Infographic
+* ## Pacific Fisher (*Pekania pennanti*) Infographic
 ![Pacific fisher infographic](/images/fisher_infographic.jpg)
 
-## Jeffrey Pine and Serpentine Soil Distributions
+* ## Jeffrey Pine and Serpentine Soil Distributions
 ![Jeffrey Pine and Serpentine Soil Distributions](/images/serpentine_occurance.jpg)
+
+---
+# Web Maps
+* # Te Ara Hura, New Zealand Interactive Trail Map (Ongoing Project)
+  I am developing a high-performance standalone web mapping application using MapLibre GL JS and the PMTiles format to visualize the complex Te Ara Hura trail network. By leveraging serverless vector tiles, I optimized data delivery to allow for smooth, client-side rendering of extensive spatial datasets without the overhead of traditional tile servers. I implemented custom JSON styling and interactive zoom-dependent filtering to ensure cartographic clarity across various map scales.
+  
+  [![Te Ara Hura Map Screenshot](/images/te-ara-hura-working.png)](https://secasti.github.io/GIS_standalone_web_maps_foss4g2025/)

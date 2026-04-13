@@ -22,18 +22,13 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/te-
 [👉 View Repository](https://github.com/secasti/GIS_standalone_web_maps_foss4g2025)
 
 ---
-## 🌊 River LiDAR & Relative Elevation Modeling (REM)
-**Tech Stack:** QGIS, CloudCompare, LiDAR Point Clouds, Open Source Data
-
-*An advanced geospatial exercise focused on de-trending river topography to visualize subtle geomorphological features that are often hidden by standard digital elevation models.*
+## River LiDAR & Relative Elevation Modeling (REM)
+I worked with CloudCompare and QGIS to transform raw LiDAR point clouds into actionable topographic models, specifically focusing on Relative Elevation Modeling (REM). By de-trending river elevation data, I was able to reveal subtle geomorphological features, such as abandoned channels and historical floodplains, that are typically obscured in standard digital elevation models
 
 [![LiDAR REM Screenshot](/images/lidar-rem.png)](https://www.meetup.com/maptimesea/events/295831668/)
 
-### Technical Methodology:
-* **Point Cloud Processing:** Utilized **CloudCompare** to inspect and filter raw LiDAR point clouds for environmental applications.
-* **Surface Modeling:** Developed a **Relative Elevation Model (REM)** in **[QGIS](https://www.qgis-us.org/resources/)** by de-trending the elevation data relative to the river's water surface.
-* **Geomorphic Visualization:** Applied custom symbology to highlight abandoned channels and floodplain features, demonstrating high-precision **Remote Sensing** and **Data Integrity** workflows.
-
-[👉 View Methodology Context](https://www.meetup.com/maptimesea/events/295831668/)
-[👉 Download LiDAR Sample Data](https://drive.google.com/file/d/1c2_KWkotvuapbbctrJZxxm4gmDmrmANn/view)
 ---
+# Web Maps
+* # Te Ara Hura, New Zealand Interactive Trail Map (Ongoing Project)
+  I am developing a high-performance standalone web mapping application using MapLibre GL JS and the PMTiles format to visualize the complex Te Ara Hura trail network. By leveraging serverless vector tiles, I optimized data delivery to allow for smooth, client-side rendering of extensive spatial datasets without the overhead of traditional tile servers. I implemented custom JSON styling and interactive zoom-dependent filtering to ensure cartographic clarity across various map scales.
+  [![Te Ara Hura Map Screenshot](/images/te-ara-hura-working.png)](https://secasti.github.io/GIS_standalone_web_maps_foss4g2025/)

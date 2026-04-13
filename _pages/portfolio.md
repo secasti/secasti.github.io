@@ -5,21 +5,17 @@ permalink: /
 author_profile: true
 
 ---
+
 # Spatial Modeling
 ## Ecological Niche Modeling: Species Distribution & Climate Projections for the American Bullfrog (*Rana catesbeiana*) 
 Using Maxent (Maximum Entropy) modeling and the Warren and Seifert (2012) likelihood calculation, I identified an optimal niche model based on parsimonious bioclimatic variables and a \Delta AICc = 0 selection criterion. I analyzed the specific response curves for annual temperature and precipitation extremes to define the target species' environmental tolerances and establish a high-accuracy spatial baseline. By projecting these requirements 50 years into the future using an RCP 8.5 high-emissions scenario and the AC global climate model, I quantified potential shifts in habitat suitability. Results were shared with the local Forest Service office to support management efforts.
 
-[![hh](/images/future_projection.jpg)]
+![RACA projected suitable habitat](/images/future_projection.jpg)
 
 ---
-# Remote Sensing Analysis
-*A selection of geospatial research with raster files, focusing on endangered species conservation and remote sensing workflows.*
-
----
+# Remote Sensing
 ## Spatial Ecology of Giant Kangaroo Rats (Carrizo Plain)
 I supported a multi-year population study of the endangered **Giant Kangaroo Rat (*Dipodomys ingens*)**. My primary contribution involved high-precision **digitization and annotation** of GKR burrow systems to track population density and spatial distribution using **[NAIP Imagery](https://storymaps.arcgis.com/stories/2da7f6d7bd2d4555b474c6057f4abcc8)**.
-
-### Research Context: GIS & Remote Sensing Analysis
 *The following StoryMap by Kira Dowdakin illustrates the broader research context and how the digitized plot and burrow data (see "Plot and Burrow Data" section) inform spatial conservation models.*
 
 <div class="storymap-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border: 1px solid #ddd;">
@@ -58,4 +54,19 @@ I evaluated the impact of the **Mad River and Humboldt Lightning Complex fires**
   </div>
 </div>
 <p style="text-align: center;"><i>← Scroll or swipe to view all 6 analysis maps →</i></p>
+
 ---
+## Mt. St. Helens: 45-Year Multi-Spectral Change Detection
+
+In this multi-temporal remote sensing study, I performed a comparative analysis of Landsat Level-1 imagery to quantify landscape recovery following the 1980 eruption of Mt. St. Helens. Using ENVI, I conducted radiometric calibration and atmospheric correction on Landsat 3 MSS (1980) and Landsat 8 OLI/TIRS (2025) datasets to ensure spectral consistency across disparate sensor generations. I developed a standardized Region of Interest (ROI) to subset both scenes to an identical geographic extent, allowing for a high-precision visual and spectral assessment of vegetation re-colonization. By generating Near-Infrared (NIR) false-color composites and utilizing link-scaled map frames in ArcGIS Pro, I mapped the long-term successional changes in the blast zone and Spirit Lake watershed.
+
+![Mt. St. Helens](/images/helens.png)
+
+---
+# Cartography
+
+## Pacific Fisher (*Pekania pennanti*) Infographic
+![Pacific fisher infographic](/images/fisher_infographic.jpg)
+
+## Jeffrey Pine and Serpentine Soil Distributions
+![Jeffrey Pine and Serpentine Soil Distributions](/images/serpentine_occurance.jpg)

@@ -8,7 +8,7 @@ author_profile: true
 #   - /about.html
 ---
 
-*A selection of geospatial research and field-based data modeling from my tenure at Cal Poly Humboldt, focusing on endangered species conservation and remote sensing workflows.*
+*A selection of geospatial research, field-based data modeling from my tenure at Cal Poly Humboldt, focusing on endangered species conservation and remote sensing workflows.*
 
 ---
 # Raster File Analysis

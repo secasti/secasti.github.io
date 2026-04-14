@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+# title: "Portfolio"
 permalink: /
 author_profile: true
 
@@ -61,7 +61,7 @@ In this multi-temporal remote sensing study, I performed a comparative analysis 
 ![Mt. St. Helens](/images/helens.png)
 
 ---
-## River LiDAR & Relative Elevation Modeling (REM)
+* ## River LiDAR & Relative Elevation Modeling (REM)
 I worked with CloudCompare and QGIS to transform raw LiDAR point clouds into actionable topographic models, specifically focusing on Relative Elevation Modeling (REM). By de-trending river elevation data, I was able to reveal subtle geomorphological features, such as abandoned channels and historical floodplains, that are typically obscured in standard digital elevation models
 
 [![LiDAR REM Screenshot](/images/lidar-rem.png)](https://www.meetup.com/maptimesea/events/295831668/)
@@ -79,5 +79,5 @@ I worked with CloudCompare and QGIS to transform raw LiDAR point clouds into act
 # Web Maps
 * # Te Ara Hura, New Zealand Interactive Trail Map (Ongoing Project)
   I am developing a high-performance standalone web mapping application using MapLibre GL JS and the PMTiles format to visualize the complex Te Ara Hura trail network. By leveraging serverless vector tiles, I optimized data delivery to allow for smooth, client-side rendering of extensive spatial datasets without the overhead of traditional tile servers. I implemented custom JSON styling and interactive zoom-dependent filtering to ensure cartographic clarity across various map scales.
-  
+
   [![Te Ara Hura Map Screenshot](/images/te-ara-hura-working.png)](https://secasti.github.io/GIS_standalone_web_maps_foss4g2025/)

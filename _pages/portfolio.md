@@ -5,6 +5,34 @@ permalink: /
 author_profile: true
 
 ---
+*Portfolio's comprehensive tech stack:*
+
+<table style="width:100%; border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td style="width:50%; vertical-align: top; border: none;">
+<strong>Software Engineering</strong>
+<ul>
+<li><strong>Languages:</strong> Java, Python, JavaScript, SQL, HTML, CSS</li>
+<li><strong>Frameworks:</strong> React, Axios, Flask, Jekyll, Amazon internal frameworks</li>
+<li><strong>Testing:</strong> JUnit, Mockito</li>
+<li><strong>Tools:</strong> AWS, Git, GitHub, IntelliJ, VS Code, Postman, Render</li>
+<li><strong>Methodologies:</strong> TDD, OOP, Agile, REST API, ERD</li>
+</ul>
+</td>
+<td style="width:50%; vertical-align: top; border: none;">
+<strong>Geospatial & Cartography</strong>
+<ul>
+<li><strong>GIS Software:</strong> ArcGIS Pro, QGIS, MapLibre GL JS, PMTiles</li>
+<li><strong>Remote Sensing:</strong> ENVI (Exelis VIS), CloudCompare, Maxent</li>
+<li><strong>Data Science:</strong> RStudio, Minitab</li>
+<li><strong>Adobe Suite:</strong> Illustrator, Lightroom, Photoshop</li>
+<li><strong>Platforms:</strong> Slack, Microsoft & Google Suites</li>
+</ul>
+</td>
+</tr>
+</table>
+
+---
 # Spatial Modeling
 * ## Ecological Niche Modeling: Species Distribution & Climate Projections for the American Bullfrog (*Rana catesbeiana*) 
 Using **Maxent (Maximum Entropy) modeling** and the Warren and Seifert (2012) likelihood calculation, I identified an optimal niche model based on parsimonious bioclimatic variables and a \Delta AICc = 0 selection criterion. I analyzed the specific response curves for annual temperature and precipitation extremes to define the target species' environmental tolerances and establish a high-accuracy spatial baseline. By projecting these requirements 50 years into the future using an RCP 8.5 high-emissions scenario and the AC **global climate model**, I quantified potential shifts in habitat suitability. Results were shared with the local Forest Service office to support management efforts.
@@ -72,7 +100,7 @@ I worked with **CloudCompare and QGIS to transform raw LiDAR point clouds** into
 * ## Pacific Fisher (*Pekania pennanti*) Infographic
 ![Pacific fisher infographic](/images/fisher_infographic.jpg)
 
-* ## Jeffrey Pine and Serpentine Soil Distributions
+* ## Jeffrey Pine (*Pinus jeffreyi*) and Serpentine Soil Distributions
 ![Jeffrey Pine and Serpentine Soil Distributions](/images/serpentine_occurance.jpg)
 
 ---

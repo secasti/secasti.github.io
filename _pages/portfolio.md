@@ -13,7 +13,7 @@ author_profile: true
 <strong>Software Engineering</strong>
 <ul>
 <li><strong>Languages:</strong> Java, Python, JavaScript, SQL, HTML, CSS</li>
-<li><strong>Frameworks:</strong> React, Axios, Flask, Jekyll, Amazon internal frameworks</li>
+<li><strong>Frameworks:</strong> React, SQLAlchemy, Axios, Flask, Jekyll, Amazon internal frameworks</li>
 <li><strong>Testing:</strong> JUnit, Mockito</li>
 <li><strong>Tools:</strong> AWS, Git, GitHub, IntelliJ, VS Code, Postman, Render</li>
 <li><strong>Methodologies:</strong> TDD, OOP, Agile, REST API, ERD</li>
@@ -31,6 +31,25 @@ author_profile: true
 </td>
 </tr>
 </table>
+
+---
+# Software Engineering
+## Ada Developers Academy Capstone: Morti
+
+Morti is no longer deployed but was a full-stack "digital legacy" application designed to allow users to create and store text and audio farewell messages for loved ones, to be released only upon a verified life event. It had a responsive React frontend with a scalable Python and Flask backend to manage complex user workflows. We designed a relational PostgreSQL schema, which handles the logic for account linking and the automated release of sensitive data through a "declaration of death" system. The project emphasizes security through managed authentication flows and clean API routing.
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px; border: 1px solid #ddd; margin-bottom: 15px;">
+  <iframe 
+    src="https://www.youtube.com/embed/A5WzzwptItE" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+<p style="text-align: center;"><i> Watch the "Morti" Full System Demo</i></p>
+
+[Frontend Repository](https://github.com/secasti/morti-frontend) | [Backend Repository](https://github.com/annavanwesep/morti-back-end)
 
 ---
 # Spatial Modeling

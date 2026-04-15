@@ -1,11 +1,11 @@
 ---
 layout: archive
-# title: "Portfolio"
+title: "Portfolio"
 permalink: /
 author_profile: true
 
 ---
-# Tech Stacks
+## Tech Stacks
 
 <table style="width:100%; border-collapse: collapse; border: none;">
 <tr style="border: none;">

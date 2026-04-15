@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 
 ---
-*Portfolio's comprehensive tech stack:*
+# Tech Stacks
 
 <table style="width:100%; border-collapse: collapse; border: none;">
 <tr style="border: none;">

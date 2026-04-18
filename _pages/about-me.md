@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-*I am a Software Engineer and GIS Specialist with a background in wildlife management and community engagement.*
+*I am a Software Engineer and GIS Specialist with a background in wildlife management and community engagement. I am currently available for freelance consulting, map and software development.*
 
 I studied Wildlife Management (Conservation Biology emphasis) and Geospatial Analysis at Cal Poly Humboldt, where I made the Dean's List and fell in love with the Pacific Northwest and environmental stewardship!
 
